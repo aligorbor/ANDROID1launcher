@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">CalcLauncher</string>
+    <string name="app_name">Calculator launcher</string>
+    <string name="run_calculator">RUN CALCULATOR</string>
+    <string name="text_hint">Formula to calculate</string>
+    <string name="formula">12345679*8</string>
 </resources>
